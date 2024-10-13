@@ -4,6 +4,7 @@
 [Rust manual](https://doc.rust-lang.org/stable/book/)    
 ['tetanes' Emulator docs](https://lukeworks.tech/tetanes-part-1)  
 ['NES eBook'](https://bugzmanov.github.io/nes_ebook/index.html)  
+<br>
 Alex:  
 - Rust manual: 3.1  
 - Emulator docs: 3.1  
